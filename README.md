@@ -17,6 +17,6 @@ Lastly, added the steps to follow using an ordered list with "ol" entitled by an
 
 8. Create new recipes, filled them with the same body as lasagna.hml and changed their info.
 
-9. Linked rest of recipes to index =.html.
+9. Linked rest of recipes to index.html.
 
 10. Commited recipes/ and index.html.
