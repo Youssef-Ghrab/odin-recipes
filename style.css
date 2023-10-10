@@ -1,0 +1,53 @@
+* {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+.recipes_li {
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    margin: 64px 0 64px 0;
+}
+
+.recipes_li {
+    list-style: none;
+}
+
+.recipes_li li {
+    margin-bottom: 24px;
+}
+
+.recipes {
+    text-decoration: none;
+    color: darkred;
+    font-size: 28px;
+}
+
+img {
+    height: 320px;
+    width: auto;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 25px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-left: 25%;
+}
+
+.description p,
+.ingredients ul,
+.steps ol {
+    margin-left: 27%;
+    margin-right: 27%;
+}
+
+.steps li,
+.ingredients li {
+    margin-bottom: 8px;
+}
